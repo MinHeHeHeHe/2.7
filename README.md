@@ -1,4 +1,10 @@
 # PHÂN TÍCH XU HƯỚNG ĐẶT HÀNG VÀ HIỆU SUẤT GIAO HÀNG TRONG DỊCH VỤ GIAO ĐỒ ĂN TẠI KHU VỰC THỦ ĐÔ ẤN ĐỘ
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15e82cb8-adee-4bc5-8e7f-c5d146d060bd" alt="image" width="500"/>
+</p>
+
+
 ## Nội dung
 - [Giới thiệu](#Giới-thiệu)
 - [Công cụ](#Công-cụ)
@@ -27,9 +33,3 @@
 !pip install <tên_thư_viện>
 ``
 - Chọn file R mong muốn.  
-
-
-
-áefasdfasdfasdfas
-## 789789
-789789
