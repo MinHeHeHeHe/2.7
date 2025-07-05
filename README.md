@@ -9,7 +9,7 @@
 
 
 ## Nội dung
-1. [Giới thiệu](#Giới-thiệu)
+1. [Giới thiệu](#1.-Giới-thiệu)
 2. [Công cụ](#Công-cụ)
 3. [Nội dung](#Nội-dung)
 4. [Cách dùng](#Cách-dùng)  
