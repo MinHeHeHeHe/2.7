@@ -1,8 +1,8 @@
 # PHÂN TÍCH XU HƯỚNG ĐẶT HÀNG VÀ HIỆU SUẤT GIAO HÀNG TRONG DỊCH VỤ GIAO ĐỒ ĂN TẠI KHU VỰC THỦ ĐÔ ẤN ĐỘ
 ## Nội dung
-- [Giới thiệu](##Gioi-thieu)
-- [Công cụ](##Cong-cu)
-- [Cách dùng](##Cach-dung)  
+- [Giới thiệu](#Gioi-thieu)
+- [Công cụ](#Cong-cu)
+- [Cách dùng](#Cach-dung)  
 
 ## Giới thiệu
 - Bối cảnh:  Ngành giao đồ ăn trực tuyến tại Ấn Độ, đặc biệt ở Delhi đang chứng kiến sự phát triển mạnh mẽ, dẫn đến nhu cầu cấp thiết trong việc tối ưu hóa các yếu tố vận hành.
