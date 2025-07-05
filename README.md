@@ -14,19 +14,19 @@
 3. [Nội dung](#3.-Nội-dung)
 4. [Cách dùng](#4.-Cách-dùng)  
 
-## Giới thiệu
+## 1. Giới thiệu
 - Bối cảnh:  Ngành giao đồ ăn trực tuyến tại Ấn Độ, đặc biệt ở Delhi đang chứng kiến sự phát triển mạnh mẽ, dẫn đến nhu cầu cấp thiết trong việc tối ưu hóa các yếu tố vận hành.
 - Mục tiêu: Dự báo đơn hàng, đánh giá hiệu quả khuyến mãi, tối ưu thời gian vận hành.  
 
-## Công cụ
+## 2. Công cụ
 - Python (Jupyter Notebook), R (RStudio).
 
-## Nội dung
+## 3. Nội dung
 - Dự báo số lượng đơn hàng theo thời gian: SARIMA, XGBoost, LSTM.  
 - Tác động của chương trình khuyến mãi: heatmap.
 - Dự báo thời gian chuẩn bị và giao hàng: Random Forest, Linear Regression, XGBoost.  
 
-## Cách dùng
+## 4. Cách dùng
 ### Đối với file Jupyter Notebook
 - Tải VS Code.
 - Tải các extension cho Jupyter Notebook.
