@@ -9,10 +9,10 @@
 
 
 ## Nội dung
-1. [Giới thiệu](#1.-Giới-thiệu)
-2. [Công cụ](#2.-Công-cụ)
-3. [Nội dung](#3.-Nội-dung)
-4. [Cách dùng](#4.-Cách-dùng)  
+1. [Giới thiệu](#1-Giới-thiệu)
+2. [Công cụ](#2-Công-cụ)
+3. [Nội dung](#3-Nội-dung)
+4. [Cách dùng](#4-Cách-dùng)  
 
 ## 1. Giới thiệu
 - Bối cảnh:  Ngành giao đồ ăn trực tuyến tại Ấn Độ, đặc biệt ở Delhi đang chứng kiến sự phát triển mạnh mẽ, dẫn đến nhu cầu cấp thiết trong việc tối ưu hóa các yếu tố vận hành.
