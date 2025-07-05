@@ -38,7 +38,7 @@
 ### Đối với file R
 - Tải RStudio.
 - Tải thư viện phù hợp:
-``bash
-!pip install <tên_thư_viện>
+``r
+install.packages("tên_thư_viện")
 ``
 - Chọn file R mong muốn.  
